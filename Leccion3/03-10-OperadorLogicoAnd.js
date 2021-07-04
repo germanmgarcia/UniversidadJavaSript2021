@@ -1,3 +1,4 @@
+// Ejemplo AND (&&), regresa true si solo ambos operando son verdaderos
 let a = 15;
 let valMin = 0,
   valMax = 10;
