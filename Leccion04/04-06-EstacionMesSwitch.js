@@ -1,7 +1,7 @@
-let mes = 12;
+let mes = "12"; 
 let estacion = "Estación desconocida";
 
-switch (mes) {
+switch (mes) {  // comparación estrictra
   case 1:
   case 2:
   case 12:
